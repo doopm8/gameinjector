@@ -1,4 +1,4 @@
-"Getting Zandronum, a modern source port. For other source ports, go to the other scripts"
+
 
 mkdir -pv $HOME/zandronum_local/zandronum
 cd $HOME/zandronum_local && \
