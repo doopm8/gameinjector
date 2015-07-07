@@ -1,0 +1,6 @@
+GameInjector, or "Games for Wheezy" is a collection of shell scripts
+that install games onto the Debian Wheezy operating system. There
+are plans for porting the scripts to other operating systems as well.
+
+These scripts are mostly original, with some segments taken from pre-
+existing instructions.
