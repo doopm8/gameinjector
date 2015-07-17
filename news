@@ -1,0 +1,11 @@
+Yes, I AM working on this repository still.
+I am working on getting the following games 
+working:
+
+	Quake (on QuakeSpasm)
+		All I need to do is get the engine to recognize the gamefiles.
+	Xonotic 
+		I have to append an installation script for glibc. Ehuhduhfuhuhsdufhsuhdfu hfghsdfgsfhgbsifghkixfdgidhgidifhgshfgluhgi
+	Some text-based games
+		I can get a bunch working, but I want to have a bunch in one script.
+
